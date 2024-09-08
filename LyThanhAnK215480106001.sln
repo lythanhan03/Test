@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxmin_v1", "Test\maxmin_v1.csproj", "{EAE1D754-B0A8-4999-BAB7-DE4BC2663C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxmin_v2(dll)", "maxmin\maxmin_v2(dll).csproj", "{590CD76D-4149-468B-9A99-0A18FEBFD0C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin_Form", "MaxMin_Form\MaxMin_Form.csproj", "{A032FEEB-7B90-4257-92CE-8B05F87250D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE1D754-B0A8-4999-BAB7-DE4BC2663C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE1D754-B0A8-4999-BAB7-DE4BC2663C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE1D754-B0A8-4999-BAB7-DE4BC2663C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE1D754-B0A8-4999-BAB7-DE4BC2663C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590CD76D-4149-468B-9A99-0A18FEBFD0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590CD76D-4149-468B-9A99-0A18FEBFD0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590CD76D-4149-468B-9A99-0A18FEBFD0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590CD76D-4149-468B-9A99-0A18FEBFD0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A032FEEB-7B90-4257-92CE-8B05F87250D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A032FEEB-7B90-4257-92CE-8B05F87250D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A032FEEB-7B90-4257-92CE-8B05F87250D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A032FEEB-7B90-4257-92CE-8B05F87250D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DBD847-A773-45A4-A428-D0E72EABC424}
+	EndGlobalSection
+EndGlobal
